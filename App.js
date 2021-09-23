@@ -6,6 +6,7 @@
  * @flow strict-local
  */
 //new merge
+//my com
 import React from 'react';
 import type {Node} from 'react';
 import {
