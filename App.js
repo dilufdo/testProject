@@ -1,3 +1,4 @@
+//com 1
 import React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
 import {
@@ -9,7 +10,7 @@ import {
   SatusBar,
   Button,
 } from 'react-native';
-//dilushan
+//dilushan 
 import {
   Header,
   LearnMoreLinks,
