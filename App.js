@@ -9,7 +9,7 @@ import {
   SatusBar,
   Button,
 } from 'react-native';
-
+//dilushan
 import {
   Header,
   LearnMoreLinks,
